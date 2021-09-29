@@ -1,0 +1,10 @@
+.horizontal{
+    border-top: 4px solid rgb(0, 0, 0);
+    border-color: black;
+    color: black;
+  opacity: 1;
+}
+.option:hover{
+    color: white;
+    background-color: rgb(27, 27, 27);
+}
